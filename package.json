@@ -1,0 +1,22 @@
+{
+  "name": "dbot_template_dalfy",
+  "version": "0.9.0",
+  "description": "initial commit for a discord bot with commandKit by Dalfy",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "commandkit dev",
+    "build": "commandkit build",
+    "start": "commandkit start"
+  },
+  "author": "Dalfy",
+  "license": "ISC",
+  "dependencies": {
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  }
+}
