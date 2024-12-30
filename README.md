@@ -13,32 +13,32 @@
 
 ## Features :
 
-## Coming
+### Coming
 
 - TBD
 
-## Under review
+### Under review
 
 - commands template & ping example
 - bot errors handler
 - bot setup & custom status
 
-## Released
+### Released
 
 - package.json & needed modules
 - commandKit config & scripts
 
 ---
 
-# How to use :
+## How to use :
 
-## Create the Discord Bot :
+### Create the Discord Bot :
 
 - Create an application on [the discord dev portal](https://discord.com/developers/applications)
 - Create a bot in your new application and store your bot TOKEN safely (bot tab)
 - Create a invite link with necessary permissions to get the bot on your server (OAuth2 tab)
 
-## Create the Discord Bot :
+### Create the Discord Bot :
 
 - Read [commandKit documentation](https://commandkit.js.org/) (really shot tbh)
 - c/c or clone this repo
