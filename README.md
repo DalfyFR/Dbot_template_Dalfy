@@ -4,7 +4,7 @@
 > Using the following :
 >
 > - commandKit [event/command Handler](https://commandkit.js.org/)
-> - typeScript (can be easily switch to js by editing extension and only a few types specifications & guards to remove)
+> - typeScript (can be easily switched to js by editing extension and only a few types specifications & guards to remove)
 > - dotenv
 
 ## Version 0.9.0
